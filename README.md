@@ -4,6 +4,7 @@
 * Jquery
 * Boostsrap
 * DomPDF
+* DataTables
 * [PHP MysqlDB Class](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class)
 
 ## Author
